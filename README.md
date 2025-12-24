@@ -9,8 +9,7 @@ Perfect for testing golf analytics, building datasets, or practicing PowerShell 
 
 # Features
 
-# Generate realistic shot metrics:
-
+Generate realistic shot metrics:
 Ball speed, club speed, launch angle, spin rate, spin axis
 Carry distance, total distance, side deviation
 Impact point (horizontal & vertical)
