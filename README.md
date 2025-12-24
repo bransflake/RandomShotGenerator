@@ -69,6 +69,7 @@ Change $logFile to customize the log file path or name.
 
 
 # Project Structure
+
 RandomShotGenerator/
 ├─ ShotGenerator.ps1        # Main PowerShell script
 ├─ README.md                # Project documentation
