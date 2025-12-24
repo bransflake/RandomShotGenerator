@@ -85,3 +85,36 @@ Batch mode: generate multiple shots automatically
 
 # License
 MIT License — free to use, modify, and share.
+
+
+HOW TO RUN
+
+✅ Steps to Run shotgenerator.ps1 from C:\
+Place the script in the root folder
+Move your shotgenerator.ps1 file to:
+C:\shotgenerator.ps1
+
+Open PowerShell as Administrator
+Press Start, type PowerShell, right-click, choose Run as Administrator.
+This ensures you have permission to access C:\.
+
+Set Execution Policy (if needed)
+If you’ve never run scripts before, allow local scripts:
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser - (Press Y to confirm.)
+
+Run the script from root
+In PowerShell:
+
+cd C:\
+.\shotgenerator.ps1
+The .\ means “run the file in the current directory.”
+Your log file (shots_log.json) will be created in C:\ next to the script.
+
+Generate shots
+Press SPACEBAR to create a shot.
+Press ESC to exit.
+
+
+
+
+
